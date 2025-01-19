@@ -1,0 +1,16 @@
+.wrap {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .avatar {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .button {
+      margin-top: 20px;
+    }
